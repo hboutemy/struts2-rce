@@ -53,3 +53,4 @@ the default messages defined in package.properties are in English. If the defaul
 locale for your server is different, then rename package.properties to package_en.properties
 and create a new package.properties with proper values for your default locale.
 ```
+testing [Nexus IQ for GitHub](https://help.sonatype.com/integrations/nexus-iq-for-github)
